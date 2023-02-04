@@ -1,0 +1,30 @@
+#result {
+  width: 80%;
+  height: 40%;
+  right: 10%;
+  left: 10%;
+  font-size: large;
+  color: black;
+  bottom: 10%;
+  position: absolute;
+  background-color: rbga(255, 120, 25, 0.9);
+  /* background-color: #f1f1f1; */
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  overflow: none;
+  /* remove bullet points */
+  list-style-type: none;
+  /* center the list items and align to left */
+  text-align: left;
+  /*place the list in the center */
+  margin-left: auto;
+  margin-right: auto;
+
+  /* remove the default padding */
+  padding: 0;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
